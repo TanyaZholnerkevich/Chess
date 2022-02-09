@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ff1ede4e4f48aeaff6c739d79c6af2, type: 3}
+  m_Name: BlackPawns
+  m_EditorClassIdentifier: 
+  id: BlackPawns
+  chessPieces:
+  - {fileID: 11400000, guid: c59e46573a0db7c4da22147be5e6161a, type: 2}
+  - {fileID: 11400000, guid: 1aef32b852cbbdb45af66df854ff20c2, type: 2}
+  - {fileID: 11400000, guid: 5bb51ce8dd229f24dbbb3be35426d81c, type: 2}
+  - {fileID: 11400000, guid: fbbc386909277a745a544992b57da882, type: 2}
+  - {fileID: 11400000, guid: a89adcc3c91394840abaa603f2eaaecf, type: 2}
+  - {fileID: 11400000, guid: 4f42b3b5ee28e6445bcc0e3e4b93d03b, type: 2}
+  - {fileID: 11400000, guid: def438ade517ddb42a15155eefd07ad3, type: 2}
+  - {fileID: 11400000, guid: 4b59959df94691c43a7a6c90a351a19c, type: 2}

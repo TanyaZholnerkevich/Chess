@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ff1ede4e4f48aeaff6c739d79c6af2, type: 3}
+  m_Name: WhitePawns
+  m_EditorClassIdentifier: 
+  id: WhitePawns
+  chessPieces:
+  - {fileID: 11400000, guid: 6507001095cd5804b8defbcf201c06dc, type: 2}
+  - {fileID: 11400000, guid: d93b6a70cbf12ec4cb0f4ab7d1a09adc, type: 2}
+  - {fileID: 11400000, guid: a4fa02284878ff748bfb4e49bee56c41, type: 2}
+  - {fileID: 11400000, guid: 32db49af64dc59840a4d2953598d6659, type: 2}
+  - {fileID: 11400000, guid: fc27a0277fc1fc5429e525819478e34c, type: 2}
+  - {fileID: 11400000, guid: 9e3fe1178ac38a64da1291236d0a8102, type: 2}
+  - {fileID: 11400000, guid: fe78f09413261974f9bd13df9556d0a9, type: 2}
+  - {fileID: 11400000, guid: 8e581ab75b924704cb3fbd2df56e7048, type: 2}
